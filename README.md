@@ -6,13 +6,21 @@ El objetivo de este proyecto es crear un modelo de ML que aprende a jugar solo a
 
 
 Python == 3.7
+
 tensorflow-gpu == 1.15.0
+
 matplotlib == 3.4.3
+
 pandas == 1.3.3
+
 stable-baselines == 2.9.0
+
 numpy == 1.21.2
+
 kaggle-environments == 1.8.12
+
 requests == 2.26.0
+
 gym == 0.20.0
 
 ### Modelos simples
